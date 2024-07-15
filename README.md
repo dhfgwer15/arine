@@ -19,3 +19,8 @@ Spring Boot & React
 1)start.spring.io에서 프로젝트 기본 설정 후 다운받기.
 추후 기본 정보 작성 or 사진
 2)zip파일을 압축 해제하고 sts에서 import project > Projects form Folder 후에 import
+
+
+
+
+# 깃 지울때는 좌측 상단에 Settings > 페이지 이동 후 맨 하단에 Delete This Repository
