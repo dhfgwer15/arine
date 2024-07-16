@@ -8,7 +8,7 @@ Spring Boot & React
 - DB Tool : DBeaver(+ HeidiSQL)
 
 > 2)SW   
-- Github
+- Github 2.44.0
 - Java 17
 - Spring Boot 3.3.1
 - Gradle 7.6.4
