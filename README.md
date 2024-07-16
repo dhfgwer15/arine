@@ -15,6 +15,8 @@ Spring Boot & React
 - Node 20.11.1
 - Maria DB 11.4.2
 
+
+
 2. Spring Boot 프로젝트 설정하기
 > 1) start.spring.io에서 프로젝트 기본 설정 후 다운받기.   
 - 추후 기본 정보 작성 or 사진   
