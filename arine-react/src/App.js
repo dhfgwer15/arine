@@ -1,9 +1,11 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
+import Header from './Components/app/Header';
+import Main from './Components/app/Main';
  
 function App() {
-  const [hidata, setHello] = useState('')
- 
+  const [setHello] = useState('')
+  
   useEffect(() => {
     axios.get('http://localhost:8086/')
       .then(response => setHello(response.data))
@@ -11,8 +13,10 @@ function App() {
   }, []);
  
   return (
+    
     <div>
-      백엔드 스프링 부트 데이터 : {hidata}
+      <Header />
+      <Main />
     </div>
   );
 }
