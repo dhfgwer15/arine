@@ -4,14 +4,13 @@ import '../../Css/main.css';
 
 function Main() {
     
-    const mainDiv = {
-        width : '100%'
-    }
-     
+    
     return (
         
-        <div style={mainDiv}>
-            <img className="mainImageCss" src='image/main/main_slide2.1d2b2c32.jpg'></img>
+        <div className='body-wrap'>
+            <div className='common-section first main-section1-container'>
+                <img className="mainImageCss" src='image/main/main_slide2.1d2b2c32.jpg'></img>
+            </div>
         </div>
     );
   }

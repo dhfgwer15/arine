@@ -8,7 +8,7 @@ function App() {
   
   useEffect(() => {
     axios.get('http://localhost:8086/')
-      .then(response => setHello(response.data))
+      .then(response => response.data)
       .catch(error => console.log(error))
   }, []);
  
