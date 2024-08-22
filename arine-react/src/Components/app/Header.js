@@ -12,7 +12,9 @@ function Header() {
       <div className='header-div'>
         <div className='wrap'>
           <div className='logo-wrap'>
-            <h1>아린 다이어트</h1>
+            <a className='logo'>
+              <div className='img'></div>
+            </a>
           </div>
           <div className='menu-wrap'>
             <a className='bold'>아린한의원 소개</a>

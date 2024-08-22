@@ -53,7 +53,7 @@ header .wrap .logo-wrap .logo {
 header .wrap .logo-wrap .logo .img {
     width: 100%;
     padding-top: 16.66%;
-    /* background-image: url(/_next/static/media/logo.9b201f8e.png); */
+    background-image: url(../image/logo.9b201f8e.png);
     background-size: cover;
     background-repeat: no-repeat
 }
